@@ -5,5 +5,5 @@
 <hr/>
 
 <h3 align="center">
- ⭐ [blog.sanjeev.one!](blog.sanjeev.one) ⭐️
+ ⭐ [blog.sanjeev.one!](https://blog.sanjeev.one) ⭐️
 </h3>
