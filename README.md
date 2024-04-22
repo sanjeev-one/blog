@@ -5,5 +5,5 @@
 <hr/>
 
 <h3 align="center">
- ⭐ Leave a star if you like this project! ⭐️
+ ⭐ [blog.sanjeev.one!](blog.sanjeev.one) ⭐️
 </h3>
